@@ -1,10 +1,8 @@
 # flutter_plants_ecommerce
 
-A new Flutter project.
+A new Flutter project where users can buy plants, connect with others and learn from the guides available.
 
-## Getting Started
-
-
+## Getting Started by Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
